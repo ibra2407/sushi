@@ -38,7 +38,7 @@ At the end of the game, player can assess their performance through the graph se
 
 ## Team Members
 The following people contributed to the success of this project that earned an "A" grade for this game.
-Ibrahim
-Qiao Wen
-Sharan
-Yingrou
+- Ibrahim
+- Qiao Wen
+- Sharan
+- Yingrou
