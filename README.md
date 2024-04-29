@@ -36,4 +36,9 @@ Uh-oh! If player runs out of an ingredient and cannot fulfill orders, the restau
 At the end of the game, player can assess their performance through the graph set out above, and understand the impact of their decisions as well as deduce the underlying demand patterns.
 ![Screenshot (679)](https://github.com/ibra2407/sushi/assets/113652688/d3441657-8355-4783-bc36-0e6aafc4c7d9)
 
-
+## Team Members
+The following people contributed to the success of this project that earned an "A" grade for this game.
+Ibrahim
+Qiao Wen
+Sharan
+Yingrou
