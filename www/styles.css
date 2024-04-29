@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'SuperEasy';
+    src: url('SuperEasy-ZVAr3.ttf') format('truetype');
+}
+
+body {
+    font-family: 'SuperEasy', sans-serif;
+}
