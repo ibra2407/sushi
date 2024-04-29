@@ -1,7 +1,7 @@
 # Sushi Game Restaurant
 
 ## Overview
-This project is a sushi restaurant simulation game implemented as a RShiny app with additional JavaScript components. The simulation aims to replicate a realistic queue management system commonly found in sushi restaurants, incorporating concepts such as optimal restocking and gauging player performance.
+This project is a sushi restaurant simulation game implemented as a RShiny app with additional JavaScript components. The simulation aims to replicate a realistic queue management system commonly found in sushi restaurants, incorporating service operations concepts such as optimal restocking.
 
 ## Features
 - **Queue Management:** Players experience a simulated queue at a sushi restaurant, where they must manage incoming orders efficiently.
